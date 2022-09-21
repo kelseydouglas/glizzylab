@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="toppings" table="x_cdltd_glizzy_mgm_glizzy_request" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>toppings</element>
+            <name>x_cdltd_glizzy_mgm_glizzy_request</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-21 17:04:56</sys_created_on>
+            <sys_id>11b88e0ed8cad1107f441487ff8bc495</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>toppings</sys_name>
+            <sys_package display_value="Glizzy Mgmt" source="x_cdltd_glizzy_mgm">ce34ca86d8cad1107f441487ff8bc45e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Glizzy Mgmt">ce34ca86d8cad1107f441487ff8bc45e</sys_scope>
+            <sys_update_name>sys_choice_x_cdltd_glizzy_mgm_glizzy_request_toppings</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-21 17:04:56</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>toppings</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sauerkraut</label>
+            <language>en</language>
+            <name>x_cdltd_glizzy_mgm_glizzy_request</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-21 17:04:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d9b88e0ed8cad1107f441487ff8bc494</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-21 17:04:56</sys_updated_on>
+            <value>sauerkraut</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>toppings</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cheese</label>
+            <language>en</language>
+            <name>x_cdltd_glizzy_mgm_glizzy_request</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-21 17:04:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>51b88e0ed8cad1107f441487ff8bc497</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-21 17:04:56</sys_updated_on>
+            <value>cheese</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>toppings</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Onions</label>
+            <language>en</language>
+            <name>x_cdltd_glizzy_mgm_glizzy_request</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-21 17:04:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>15b88e0ed8cad1107f441487ff8bc499</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-21 17:04:56</sys_updated_on>
+            <value>onions</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>toppings</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Peppers</label>
+            <language>en</language>
+            <name>x_cdltd_glizzy_mgm_glizzy_request</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-21 17:04:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d5b88e0ed8cad1107f441487ff8bc49b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-21 17:04:56</sys_updated_on>
+            <value>peppers</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

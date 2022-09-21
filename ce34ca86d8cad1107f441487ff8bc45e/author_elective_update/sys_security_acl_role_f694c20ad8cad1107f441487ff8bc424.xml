@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-21 16:47:01</sys_created_on>
+        <sys_id>f694c20ad8cad1107f441487ff8bc424</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_cdltd_glizzy_mgm_glizzy_request.x_cdltd_glizzy_mgm.glizzy_admin</sys_name>
+        <sys_package display_value="Glizzy Mgmt" source="x_cdltd_glizzy_mgm">ce34ca86d8cad1107f441487ff8bc45e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Glizzy Mgmt">ce34ca86d8cad1107f441487ff8bc45e</sys_scope>
+        <sys_security_acl display_value="x_cdltd_glizzy_mgm_glizzy_request">b694c20ad8cad1107f441487ff8bc422</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_f694c20ad8cad1107f441487ff8bc424</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-21 16:47:01</sys_updated_on>
+        <sys_user_role display_value="x_cdltd_glizzy_mgm.glizzy_admin" name="x_cdltd_glizzy_mgm.glizzy_admin">34544ac6d8cad1107f441487ff8bc4e0</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Glizzy Mgmt">ce34ca86d8cad1107f441487ff8bc45e</application>
+        <file_path/>
+        <instance_id>cfd5960987ce15144f9da8a73cbb35b0</instance_id>
+        <instance_name>adf-sep18adgf-dev-003</instance_name>
+        <name>sys_security_acl_role_f694c20ad8cad1107f441487ff8bc424</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-09-21 16:47:01</sys_created_on><sys_id>f694c20ad8cad1107f441487ff8bc424</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_cdltd_glizzy_mgm_glizzy_request.x_cdltd_glizzy_mgm.glizzy_admin</sys_name><sys_package display_value="Glizzy Mgmt" source="x_cdltd_glizzy_mgm">ce34ca86d8cad1107f441487ff8bc45e</sys_package><sys_policy/><sys_scope display_value="Glizzy Mgmt">ce34ca86d8cad1107f441487ff8bc45e</sys_scope><sys_security_acl display_value="x_cdltd_glizzy_mgm_glizzy_request">b694c20ad8cad1107f441487ff8bc422</sys_security_acl><sys_update_name>sys_security_acl_role_f694c20ad8cad1107f441487ff8bc424</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-09-21 16:47:01</sys_updated_on><sys_user_role display_value="x_cdltd_glizzy_mgm.glizzy_admin" name="x_cdltd_glizzy_mgm.glizzy_admin">34544ac6d8cad1107f441487ff8bc4e0</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-2144131734</payload_hash>
+        <record_name>x_cdltd_glizzy_mgm_glizzy_request.x_cdltd_glizzy_mgm.glizzy_admin</record_name>
+        <reverted_from/>
+        <source>4234ca86d8cad1107f441487ff8bc461</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-21 16:47:01</sys_created_on>
+        <sys_id>3a94c20ad8cad1107f441487ff8bc426</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18360f216c60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-21 16:47:01</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>7294c20ae3cad11054f41b82fde87926</update_guid>
+        <update_guid_history>7294c20ae3cad11054f41b82fde87926:-2144131734</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_cdltd_glizzy_mgm_glizzy_request.x_cdltd_glizzy_mgm.glizzy_admin">fc37da8ad80ed1107f441487ff8bc423</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-21 18:08:15</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>45c22f30176c4e1ea7ce501a738970a1</sys_id>
+        <sys_metadata>f694c20ad8cad1107f441487ff8bc424</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_cdltd_glizzy_mgm_glizzy_request.x_cdltd_glizzy_mgm.glizzy_admin</sys_name>
+        <sys_package display_value="Glizzy Mgmt" source="x_cdltd_glizzy_mgm">ce34ca86d8cad1107f441487ff8bc45e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Glizzy Mgmt">ce34ca86d8cad1107f441487ff8bc45e</sys_scope>
+        <sys_scope_delete display_value="">05b0a10148994ba68027f604158fb0c4</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_f694c20ad8cad1107f441487ff8bc424</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_f694c20ad8cad1107f441487ff8bc424">3a94c20ad8cad1107f441487ff8bc426</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-21 18:08:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

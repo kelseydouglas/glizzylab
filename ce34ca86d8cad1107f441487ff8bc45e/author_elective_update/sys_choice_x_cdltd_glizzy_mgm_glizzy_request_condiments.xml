@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="condiments" table="x_cdltd_glizzy_mgm_glizzy_request" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>condiments</element>
+            <name>x_cdltd_glizzy_mgm_glizzy_request</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-21 17:04:55</sys_created_on>
+            <sys_id>c9b88e0ed8cad1107f441487ff8bc47f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>condiments</sys_name>
+            <sys_package display_value="Glizzy Mgmt" source="x_cdltd_glizzy_mgm">ce34ca86d8cad1107f441487ff8bc45e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Glizzy Mgmt">ce34ca86d8cad1107f441487ff8bc45e</sys_scope>
+            <sys_update_name>sys_choice_x_cdltd_glizzy_mgm_glizzy_request_condiments</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-21 17:04:55</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>condiments</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Yellow Mustard</label>
+            <language>en</language>
+            <name>x_cdltd_glizzy_mgm_glizzy_request</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-21 17:04:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>85b88e0ed8cad1107f441487ff8bc47f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-21 17:04:55</sys_updated_on>
+            <value>yellow mustard</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>condiments</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Spicy Mustard</label>
+            <language>en</language>
+            <name>x_cdltd_glizzy_mgm_glizzy_request</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-21 17:04:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0db88e0ed8cad1107f441487ff8bc481</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-21 17:04:55</sys_updated_on>
+            <value>spicy mustard</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>condiments</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Ketchup</label>
+            <language>en</language>
+            <name>x_cdltd_glizzy_mgm_glizzy_request</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-21 17:04:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cdb88e0ed8cad1107f441487ff8bc483</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-21 17:04:55</sys_updated_on>
+            <value>ketchup</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>condiments</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Mayonnaise</label>
+            <language>en</language>
+            <name>x_cdltd_glizzy_mgm_glizzy_request</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-21 17:04:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>81b88e0ed8cad1107f441487ff8bc486</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-21 17:04:55</sys_updated_on>
+            <value>mayonnaise</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

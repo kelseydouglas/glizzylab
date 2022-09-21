@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="task" label="Glizzy Request" max_length="40" name="x_cdltd_glizzy_mgm_glizzy_request" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Condiments" max_length="40" name="condiments" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Yellow Mustard" sequence="0" value="yellow mustard"/>
+                <element inactive_on_update="false" label="Spicy Mustard" sequence="1" value="spicy mustard"/>
+                <element inactive_on_update="false" label="Ketchup" sequence="2" value="ketchup"/>
+                <element inactive_on_update="false" label="Mayonnaise" sequence="3" value="mayonnaise"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Toppings" max_length="40" name="toppings" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Sauerkraut" sequence="0" value="sauerkraut"/>
+                <element inactive_on_update="false" label="Cheese" sequence="1" value="cheese"/>
+                <element inactive_on_update="false" label="Onions" sequence="2" value="onions"/>
+                <element inactive_on_update="false" label="Peppers" sequence="3" value="peppers"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Type" max_length="40" name="type" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Classic" sequence="0" value="classic"/>
+                <element inactive_on_update="false" label="Bratwurst" sequence="1" value="bratwurst"/>
+                <element inactive_on_update="false" label="Veggie" sequence="2" value="veggie"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Size" max_length="40" name="u_choice_2" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Small" sequence="0" value="small"/>
+                <element inactive_on_update="false" label="Medium" sequence="1" value="medium"/>
+                <element inactive_on_update="false" label="Large" sequence="2" value="large"/>
+            </choice>
+        </element>
+    </element>
+</database>
